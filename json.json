@@ -1,0 +1,41 @@
+{
+    "id": "E9DB951B",
+    "date": "2023-09-30",
+    "userId": 1,
+    "products": [
+        {
+            "id": 1,
+            "title": "Chocolate Bar",
+            "price": "3.00",
+            "description": "A classic milk chocolate bar",
+            "image": "https://shapegrams.com/wp-content/uploads/2021/12/Chocolate-Bar-Featured-Image.png",
+            "quantity": 1
+        },
+        {
+            "id": 4,
+            "title": "Chocolate Covered Almonds",
+            "price": "2.99",
+            "description": "Crunchy almonds coated in milk chocolate",
+            "image": "https://m.media-amazon.com/images/I/51ocwjof7ML.jpg",
+            "quantity": 1
+        },
+        {
+            "id": 6,
+            "title": "Fruit Gummy Bears",
+            "price": "1.49",
+            "description": "Assorted fruit-flavored gummy bears",
+            "image": "https://www.gosupps.com/media/catalog/product/8/1/81wy7-GTP2L.jpg",
+            "quantity": 1
+        },
+        {
+            "id": 5,
+            "title": "Chocolate Hazelnut Spread",
+            "price": "3.49",
+            "description": "Creamy chocolate and hazelnut spread",
+            "image": "https://target.scene7.com/is/image/Target/GUEST_aed2d007-06a3-4015-b656-486f5a1f9a07?wid=488&hei=488&fmt=pjpeg",
+            "quantity": 1
+        }
+    ],
+    "totalqty": 4,
+    "totalPrice": 10.97
+}
